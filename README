@@ -1,0 +1,35 @@
+orlykor12
+203595541
+orly koren
+
+I discussed the exercise with: Hofit Bata, Yonathan heiss.
+
+=============================
+=  README for ex2: calculator and shapes
+=============================
+
+
+usage: python3.3 ex2a.py,  python3.3 ex2b.py
+==================
+=  Description:  =
+==================
+
+in the first part i learnt how to use the if statement using the math module,
+and calculate perimeter and area of different shapes.
+in the second part i also learnt how to use the if statement, doing a 
+calculator using the math module.
+
+
+=============================
+=  List of submitted files: =
+=============================
+
+README		This file
+ex2a.py    	calculates perimeter and area of a selected shape
+ex2b.py		calculates numbers 
+
+======================
+=  Special Comments  =
+======================
+
+
